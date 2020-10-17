@@ -1,6 +1,6 @@
 ---
 layout: page
-title: > whoami /all
+title: whoami /all
 subtitle: Take nothing that will be missed, leave nothing that will be noticed.
 ---
 
