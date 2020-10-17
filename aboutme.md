@@ -2,7 +2,7 @@
 layout: page
 title: whoami /all
 subtitle: Take nothing that will be missed, leave nothing that will be noticed.
-cover-img: /assets/img/bleedingeye.jpg
+cover-img: /assets/img/myself.jpg
 ---
 
 Hi, im Devid Lana aka Her0.
