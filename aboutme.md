@@ -2,6 +2,7 @@
 layout: page
 title: whoami /all
 subtitle: Take nothing that will be missed, leave nothing that will be noticed.
+cover-img: /assets/img/bleedingeye.jpg
 ---
 
 Hi, im Devid Lana aka Her0.
@@ -13,5 +14,3 @@ My core skillsets rages from standard Penetration Testing activities to Adversar
 
 This blog is the place where I share my experiments that i do on my spare time.
 
-
-cover-img: /assets/img/bleedingeye.jpg
