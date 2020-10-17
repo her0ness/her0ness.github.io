@@ -14,4 +14,4 @@ My core skillsets rages from standard Penetration Testing activities to Adversar
 This blog is the place where I share my experiments that i do on my spare time.
 
 
-Other.
+cover-img: /assets/img/bleedingeye.jpg
